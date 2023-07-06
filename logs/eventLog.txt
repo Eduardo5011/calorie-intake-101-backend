@@ -1,0 +1,14 @@
+20230508	19:35:20	930af758-8abd-4ded-898b-c5a8bb3826e0	Log event emmited!
+20230508	19:35:23	311a35c6-3fde-41dd-b358-d4c44cfab412	Log event emmited!
+20230508	19:35:50	b5493169-50c3-40c4-b034-2c6de11287c4	Log event emmited!
+20230508	19:35:54	4df5c353-d98a-482d-a91a-c4d4e31acefe	Log event emmited!
+20230508	19:35:57	2c63aa1e-8f98-47cf-86ec-039309f9934a	Log event emmited!
+20230508	19:36:08	a4867f1a-f5bd-4bad-b563-77adc5da71d5	Log event emmited!
+20230508	19:36:14	c39dd0ce-9521-4074-8776-041ed2bbf937	Log event emmited!
+20230508	19:36:19	fce804b5-2d8e-4074-a6e2-15761ad9826d	Log event emmited!
+20230508	19:36:23	fbfebdb8-0b1e-4e2d-aa6b-542e11b86799	Log event emmited!
+20230508	19:36:37	c56514f1-5120-4aee-8097-3a4d1da79ebe	Log event emmited!
+20230508	19:36:39	7ff8724a-54ae-4813-8462-d2eb8233a9d8	Log event emmited!
+20230508	19:36:40	a17b88cb-f051-47a8-90ab-c1c451e07c83	Log event emmited!
+20230508	20:55:51	dbb22503-f55e-4cc6-9fba-fc1238ea2783	Log event emmited!
+20230508	20:55:55	370f2b86-4bd4-4876-a5a3-c18910fc02b9	Log event emmited!

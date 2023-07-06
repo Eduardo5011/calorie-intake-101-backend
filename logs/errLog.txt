@@ -1,0 +1,48 @@
+20230509	19:47:48	cb801b38-c6d4-4733-8313-25f418d56378	Error: Not allowed by CORS
+20230512	18:41:25	b12e7948-06de-47cd-bee1-d0cd4cbd86d7	Error: ENOENT: no such file or directory, stat 'D:\vscode projects\server\views\subdir\test.html'
+20230514	23:38:00	b111616d-e5c8-4733-b248-5d57aaf8ebe5	SyntaxError: Unexpected token ' in JSON at position 10
+20230515	13:47:26	4e22dfc1-d94f-4c7d-8539-b8ab0d94ece2	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	13:47:46	53ec1d30-cb14-4154-990b-b695d1b43f9e	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	13:47:50	5f791965-7d56-48a5-aac7-1229203b064e	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	13:47:55	4acd7c2e-3d37-41e7-9f01-029a4f05d2b2	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:18:33	b5331ef2-c56a-4e70-89b9-067ee2ef4dc5	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:18:50	1c60d93e-e33a-4250-89aa-2623587b0ed3	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:27:26	c7687636-3548-4231-9b96-dfc09018c46b	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:27:37	c629d258-ea00-47a5-90ed-0ff1c9c582c8	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:27:40	9cb3a599-132c-4e85-9589-f42c80b7872c	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:27:43	27348dfe-6ebf-46d4-aa11-ab0220fd2de1	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:28:14	02706e28-6816-470d-bb17-b3e7721eec60	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:31:56	f3c45fe0-0f91-4a5f-8b39-a269c58de30d	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:35:48	10950d53-7850-436b-b16f-b4456a7d333a	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:35:58	b7503578-323a-4b56-8065-75c8b3c3fbed	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:36:07	35e248cf-2f00-4171-b03b-2a6f0eb352d4	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:36:14	dafcd377-9581-47f2-9fb8-10e1e7d2806c	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:13	8e3ba8c6-8eae-4ee3-a8cf-38ce3ab3cc5e	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:34	c4209162-326d-460c-9a06-3645eb0af3dc	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:34	49a6e5f2-b825-4e1d-8719-9aef8c46736e	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:34	cebb4b0a-da99-4b3b-a59c-453cc96dc943	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:35	f8b8b3eb-3307-465d-b861-188b05d399ed	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:35	294b9783-8b3d-4cde-96fd-1f2a864031b3	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:35	b335e484-eaa3-437d-be51-e84ba4b35732	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:35	f9a2864f-1539-4bec-85be-c659f652bf75	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:35	42c6eb02-fb40-43d7-83fe-afeb1e8ba816	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:36	bfe86506-677d-4606-9c4d-99fc2fc62935	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:36	800f93c5-24f6-450c-8699-6142b7438800	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:36	c06a1757-f327-4753-a037-c3f316a089ea	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:36	fe1a7d11-6637-4662-b731-9be8c89bee30	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:36	9caba1ad-0de7-4e13-b885-4ea5946ad1ac	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:37	5d2fccdd-549a-46df-88b2-63cb438ed4bb	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:37:37	0c519160-3fdd-44be-9f52-403f5f96a5f1	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:38:21	32983c49-c064-4b0f-afc8-94fc1644e974	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:38:22	eede77eb-dadf-4b9f-b55f-d5cb6ac43de9	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:38:25	0f659542-0b7b-4482-97c7-5c37ada2637a	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:38:26	9de98358-11b2-4c35-9edb-16eb62370f55	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:38:26	af4540b1-92f4-4611-800d-a34b2f357573	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:38:26	e148f745-a3d2-40c4-bb4a-483132c0cb1a	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:38:26	4b4aba75-47eb-416b-be8c-ed51983961d2	SyntaxError: Unexpected token ( in JSON at position 0
+20230515	15:43:24	60657fb5-4d5c-4c2d-9f4a-4d458bfa8d88	SyntaxError: Unexpected token ' in JSON at position 10
+20230515	16:00:36	ea123ee5-797f-4dce-a46c-bdf7081c498a	TypeError: Cannot read properties of undefined (reading 'username')
+20230515	16:00:41	9aca6bfd-88cd-4ec1-be17-5b07bcd4f71a	TypeError: Cannot read properties of undefined (reading 'username')
+20230515	16:00:41	ff5ab56d-cc3f-4da2-9601-6f1dc219b008	TypeError: Cannot read properties of undefined (reading 'username')
+20230515	16:00:42	d33e7456-d79a-47a4-835a-330bfd817f59	TypeError: Cannot read properties of undefined (reading 'username')
+20230515	17:14:05	266506c6-4e2b-4160-9d7f-f93d67cf53c9	ReferenceError: cokkies is not defined
