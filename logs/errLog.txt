@@ -46,3 +46,4 @@
 20230515	16:00:41	ff5ab56d-cc3f-4da2-9601-6f1dc219b008	TypeError: Cannot read properties of undefined (reading 'username')
 20230515	16:00:42	d33e7456-d79a-47a4-835a-330bfd817f59	TypeError: Cannot read properties of undefined (reading 'username')
 20230515	17:14:05	266506c6-4e2b-4160-9d7f-f93d67cf53c9	ReferenceError: cokkies is not defined
+20230707	16:12:53	fae50b91-75ac-4d1e-9c17-9ce968ac6a29	Error: Not allowed by CORS
